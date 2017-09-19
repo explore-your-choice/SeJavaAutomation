@@ -8,7 +8,6 @@ public class ScreenshotCapture {
     public void takeScreenshot(){
 
         System.out.println("Screenshot taken");
-
     }
 
 }
