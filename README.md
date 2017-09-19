@@ -10,7 +10,7 @@ Lets go through some of the important commands of GitHub
 
 Firstly to clone any repository from Github
 
-git clone <repository url>
+git clone [repository url]
 
 To check the status of repository and files for any change or modifications
 
