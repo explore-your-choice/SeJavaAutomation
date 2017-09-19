@@ -11,5 +11,9 @@ public class OpenChrome {
 
 
     }
+    public void openBrowser(){
+
+    	System.out.println("Chrome browser opening");
+    }
 
 }
