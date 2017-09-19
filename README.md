@@ -28,4 +28,4 @@ To push the commited chages back to github
 
 git push origin master (if we want to push changes to master branch)
 
-git push origin <branch name> (if we want to push changes to any other branch)
+git push origin [branch name] (if we want to push changes to any other branch)
