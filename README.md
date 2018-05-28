@@ -1,5 +1,5 @@
 # SeJavaAutomation
-Selenium Automation using Java 
+### Selenium Automation using Java 
 
 This is the project to create automation code using Selenium Webdriver.
 Also the members of this project can have rights to pull,push and commit changes to the projects.
